@@ -3,20 +3,16 @@
 ## 📌 Project Overview
 This project focuses on analyzing a company's sales data for a particular year to identify key trends, customer behavior, and business insights. The objective is to derive actionable recommendations that can help improve sales performance in the following year.
 
+## 📁 Dataset Information
+
+- Total Records: 31048
+- Total Features (Columns): 21
+
 ## 🎯 Problem Statement
 Analyze historical sales data to find patterns and insights that support data-driven decision-making and help increase sales in the next year.
 
 ## 🛠️ Tools Used
 - Microsoft Excel
-
-## 📈 Key Concepts Applied
-- Data Cleaning
-- Data Preprocessing
-- Pivot Tables
-- Data Visualization
-- Sales Trend Analysis
-- Interactive Dashboard
-- Business Insights
 
 ## 🔍 Analysis Performed
 - Cleaned and preprocessed the raw sales dataset
