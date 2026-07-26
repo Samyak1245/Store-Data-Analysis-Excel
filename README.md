@@ -1,6 +1,5 @@
 # 📊 Sales Data Analysis | Microsoft Excel
 
-## 📌 Project Overview
 This project focuses on analyzing a company's sales data for a particular year to identify key trends, customer behavior, and business insights. The objective is to derive actionable recommendations that can help improve sales performance in the following year.
 
 ## 📁 Dataset Information
