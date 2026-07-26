@@ -29,3 +29,7 @@ Analyze historical sales data to find patterns and insights that support data-dr
 - Highlighted low-performing areas requiring improvement
 - Generated insights to support strategic planning for the next year's sales
 - Presented findings through an easy-to-understand Excel dashboard
+
+## 📂 Dashboard Preview
+
+![HR Analytics Dashboard](Image/dashboard1.png)
